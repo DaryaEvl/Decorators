@@ -1,0 +1,5 @@
+{'hello_world': ({'arg_args': (), 'kwargs': {}, 'data': '2023-03-05 16:54:22.944478'}, {'result': 'Hello World'})}
+{'summator': ({'arg_args': (2, 2), 'kwargs': {}, 'data': '2023-03-05 16:54:22.944478'}, {'result': 4})}
+{'div': ({'arg_args': (6, 2), 'kwargs': {}, 'data': '2023-03-05 16:54:22.944478'}, {'result': 3.0})}
+{'summator': ({'arg_args': (4.3,), 'kwargs': {'b': 2.2}, 'data': '2023-03-05 16:54:22.960101'}, {'result': 6.5})}
+{'summator': ({'arg_args': (), 'kwargs': {'a': 0, 'b': 0}, 'data': '2023-03-05 16:54:22.960101'}, {'result': 0})}

@@ -1,0 +1,4 @@
+{'hello_world': ({'arg_args': (), 'kwargs': {}, 'data': '2023-03-05 16:53:25.168692'}, {'result': 'Hello World'})}
+{'summator': ({'arg_args': (2, 2), 'kwargs': {}, 'data': '2023-03-05 16:53:25.168692'}, {'result': 4})}
+{'div': ({'arg_args': (6, 2), 'kwargs': {}, 'data': '2023-03-05 16:53:25.168692'}, {'result': 3.0})}
+{'summator': ({'arg_args': (4.3,), 'kwargs': {'b': 2.2}, 'data': '2023-03-05 16:53:25.168692'}, {'result': 6.5})}
